@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @MatanZisman
-- 👀 I’m iooking for a Student job.
-- 🌱 I’m currently learning Computer Science.
-- 📫 You can reach me here :)
+- 
